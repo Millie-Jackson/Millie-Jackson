@@ -12,7 +12,7 @@ millie_jackson = {
             'pets:', '1 snake, 2 turtles'         
 }
 ```
-I have two MSc, one in Game Dev with a focus on AI and the other in psychology with a focus on cyberpsychology and gaming. I am now studying data science and machine learning with AiCore.
+I have two MSc, one in Game Dev with a focus on AI and the other in psychology with a focus on cyberpsychology and gaming. I have recently finished studying data science and machine learning with AiCore.
 
 - 🔭 I’m currently working on 
   - **AirBnB Project:** An AiCore data science specilization project using neural networks to predict rental prices
@@ -23,7 +23,7 @@ I have two MSc, one in Game Dev with a focus on AI and the other in psychology w
 
     https://github.com/Millie-Jackson/Learning-Materials/tree/main/DEEP%20LEARNING
   
-  - **Productivity Assistent Project:** A hobby project that combines multiple productivity steps
+  - **Productivity Assistent Project:** A hobby project that combines multiple productivity techniques
   
     https://github.com/Millie-Jackson/Random-Projects/tree/main/Productivity%20Assistant
 
@@ -37,13 +37,14 @@ I have two MSc, one in Game Dev with a focus on AI and the other in psychology w
   - TKinter
     - Personal Development
       - Management for beginners
-      - Second Brains
+      - Deep Work
+      - Slow Productivity
 
-- ⚡ Fun fact: I have a habit of dancing at my desk
+- ⚡ Fun fact: I use to be a ballerina
 
 - 📫 How to reach me: 
-  - **LinkedIn:** https://www.linkedin.com/in/millie-jackson-88944554/
-  - **Email:** millie.jackson1@gmail.com or milliej137@gmail.com
+  - **LinkedIn:** www.linkedin.com/in/millie-jackson7
+  - **Email:** millie.jackson1@gmail.com
  
 - 💬 Ask me about my previous projects!
   - **Computer Vision Project:** Maybe my favorite project so far. I used TeachableMachine to play rock, paper, scissor with my webcab! This was a super fun project and I hope to add other webcam based mini games involving drawing 'in the air' to create a bundle of single and two player party games.
