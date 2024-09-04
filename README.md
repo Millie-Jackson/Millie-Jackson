@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=millie-jackson" alt="millie-jackson" /></a> </p>
 
-- 🔭 I’m currently working on [Computer Vision]([https://github.com/Millie-Jackson/AirBn](https://github.com/Millie-Jackson/Computer-Vision-Rock-Paper-Scissors))
-- 🔭 Also working on [AB-Testing]((https://github.com/Millie-Jackson/AB-Testing))
+- 🔭 I’m currently working on [Computer Vision](https://github.com/Millie-Jackson/Computer-Vision-Rock-Paper-Scissors)
+- 🔭 Also working on [AB-Testing](https://github.com/Millie-Jackson/AB-Testing)
 
 
 - 🌱 I’m currently learning **SQL, Prediction Modelling, Neural Networks, Statistics, TKInter**
