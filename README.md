@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=millie-jackson" alt="millie-jackson" /></a> </p>
 
-- 🔭 I’m currently working on [Computer Vision](https://github.com/Millie-Jackson/Computer-Vision-Rock-Paper-Scissors)
+- 🔭 I’m currently working on [SQL for BI](https://github.com/Millie-Jackson/Pizza-Parlor)
 - 🔭 Also working on [Data Collection Pipeline](https://github.com/Millie-Jackson/Recipe-Harvest-Pipeline)
+- 🔭 And [Animals Simulations](https://github.com/Millie-Jackson/Ant-Colony)
 
 
-- 🌱 I’m currently learning **SQL, Prediction Modelling, Neural Networks, Statistics, TKInter**
+- 🌱 I’m currently learning **SQL, Data Collection, PyGame**
 
 - 📫 How to reach me **millie.jackson1@gmail.com**
 
